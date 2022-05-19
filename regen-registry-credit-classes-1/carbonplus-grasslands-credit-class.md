@@ -6,4 +6,4 @@ coverY: 0
 
 # CarbonPlus Grasslands Credit Class
 
-{% embed url="https://docs.google.com/document/d/1b6m5JODXpHsSIuxPw5DHMgGXdpthjGIn/edit?ouid=108332200339886342965&rtpof=true&sd=true&usp=sharing" %}
+{% embed url="https://docs.google.com/document/d/1b6m5JODXpHsSIuxPw5DHMgGXdpthjGIn/edit?rtpof=true&sd=true" %}
