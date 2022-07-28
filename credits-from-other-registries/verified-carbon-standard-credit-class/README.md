@@ -9,4 +9,4 @@ The [Verified Carbon Standard (VCS)](https://verra.org/project/vcs-program/) is 
 
 This credit class is intended to be used by project developers, credit brokers, and other stakeholders interested in digitizing nature-based carbon credits issued by the VCS program to make them available in the emerging world of decentralized finance. The rules and requirements outlined in this credit class must be followed exactly for VCUs to be issued on Regen Ledger. To avoid double counting, all VCUs issued on Regen Ledger must retire on the Verra registry according to the process outlined in Section 5.b.
 
-For more information on the VCS program and registry standards, visit [https://verra.org/](https://verra.org).
+For more information on the VCS program and registry standards, visit [https://verra.org/](https://verra.org/).

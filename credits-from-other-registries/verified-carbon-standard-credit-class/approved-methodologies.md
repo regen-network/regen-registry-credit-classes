@@ -1,6 +1,6 @@
 # Approved Methodologies
 
-Verra methodologies outline detailed instructions for determining GHG emission reduction and removals for a wide variety of nature based solutions. The VCS program allows any methodology developed under the [United Nations Clean Development Mechanism](https://unfccc.int) as well as methodologies developed by the [Climate Action Reserve](https://www.climateactionreserve.org), with the exception of their forest protocols, to be used alongside their native methodologies.
+Verra methodologies outline detailed instructions for determining GHG emission reduction and removals for a wide variety of nature based solutions. The VCS program allows any methodology developed under the [United Nations Clean Development Mechanism](https://unfccc.int/) as well as methodologies developed by the [Climate Action Reserve](https://www.climateactionreserve.org/), with the exception of their forest protocols, to be used alongside their native methodologies.
 
 The Verra approved methodologies for this credit class include:&#x20;
 
