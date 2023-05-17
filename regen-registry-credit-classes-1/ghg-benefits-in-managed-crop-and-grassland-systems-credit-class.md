@@ -8,9 +8,7 @@
 
 **Sectoral Scope:** Livestock and Manure Management
 
-**Abstract:** Under managed grazing, emissions of the greenhouse gases methane and nitrous oxide continue, but are more than offset by soil organic carbon sequestration (at least until soil carbon saturation is achieved). The estimated global benefit from managed grazing is between 16.4 and 26 Gt CO2e sequestered in the period between 2020-2050.
-
-The intent of this Credit Class is to provide incentive and a structure to significantly increase the amount of hectares/acres under regenerative annual cropping and managed grazing worldwide by providing land stewards with the necessary incentives to make this important work possible.
+**Abstract:** Soil is the largest terrestrial pool of organic carbon with small changes in stocks resulting in significant changes in atmospheric carbon concentrations.  Regenerative cropping and managed grazing enhance soil organic carbon content, improving productivity while mitigating climate change through the sequestration of atmospheric carbon dioxide.  By 2050, regenerative annual cropping is estimated to have a sequestration potential of between 14.5–22 gigatons of CO2, and managed grazing between 16.4 and 26 Gt CO2e. (Project Drawdown, 2020).  This Credit Class uses the ecometric soil organic carbon monitoring methodology to measure the impact of crop and grassland management and identify and report climate positive surplus CO2e tons as high integrity Removal Credits.&#x20;
 
 {% file src="../.gitbook/assets/Ecometric_GHG Benefits in Managed Crop and Grassland Systems Credit Class.docx.pdf" %}
 
