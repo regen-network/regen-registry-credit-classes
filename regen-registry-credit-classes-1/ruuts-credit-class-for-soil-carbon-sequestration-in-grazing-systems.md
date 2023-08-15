@@ -1,6 +1,6 @@
 # Ruuts Credit Class for Soil Carbon Sequestration in Grazing Systems
 
-## Overview
+Overview
 
 **Developer:** Ruuts
 
