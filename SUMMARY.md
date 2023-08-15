@@ -7,6 +7,7 @@
 * [CarbonPlus Grasslands Credit Class](regen-registry-credit-classes-1/carbonplus-grasslands-credit-class.md)
 * [GHG Benefits in Managed Crop and Grassland Systems Credit Class](regen-registry-credit-classes-1/ghg-benefits-in-managed-crop-and-grassland-systems-credit-class.md)
 * [Credit Class for Grazing in Vineyard Systems](regen-registry-credit-classes-1/credit-class-for-grazing-in-vineyard-systems.md)
+* [Ruuts Credit Class for Soil Carbon Sequestration in Grazing Systems](regen-registry-credit-classes-1/ruuts-credit-class-for-soil-carbon-sequestration-in-grazing-systems.md)
 
 ## Credits from Other Registries
 
