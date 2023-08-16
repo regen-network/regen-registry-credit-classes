@@ -1,6 +1,6 @@
 # Ruuts Credit Class for Soil Carbon Sequestration in Grazing Systems
 
-Overview
+## Overview
 
 **Developer:** Ruuts
 
@@ -12,4 +12,4 @@ Overview
 
 
 
-{% file src="../.gitbook/assets/Ruuts Credit Class for Soil Organic Carbon Sequestration in Grazing Systems.pdf" %}
+{% file src="../.gitbook/assets/Ruuts Credit Class for Soil Organic Carbon Sequestration in Grazing Systems (1).pdf" %}
