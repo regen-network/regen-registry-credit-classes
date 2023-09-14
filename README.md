@@ -1,5 +1,5 @@
 ---
-description: Existing and upcoming Credit Classes on Regen Registry
+description: Credit Classes on Regen Registry
 ---
 
 # Regen Registry Credit Classes
