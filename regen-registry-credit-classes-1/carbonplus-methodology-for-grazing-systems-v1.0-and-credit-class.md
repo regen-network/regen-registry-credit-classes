@@ -1,8 +1,5 @@
 ---
 description: 'Ecosystem Focus: Grasslands, Shrubland, Pastureland'
-cover: >-
-  ../.gitbook/assets/portrait-of-cows-grazing-678835297-5897859c5f9b5874ee3c6f33.jpg
-coverY: 0
 ---
 
 # CarbonPlus Methodology for Grazing Systems v1.0 & Credit Class
