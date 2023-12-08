@@ -4,8 +4,8 @@ description: Credit Classes on Regen Registry
 
 # Regen Registry Credit Classes
 
-{% content-ref url="regen-registry-credit-classes-1/carbonplus-grasslands-credit-class.md" %}
-[carbonplus-grasslands-credit-class.md](regen-registry-credit-classes-1/carbonplus-grasslands-credit-class.md)
+{% content-ref url="regen-registry-credit-classes-1/carbonplus-methodology-for-grazing-systems-v1.0-and-credit-class.md" %}
+[carbonplus-methodology-for-grazing-systems-v1.0-and-credit-class.md](regen-registry-credit-classes-1/carbonplus-methodology-for-grazing-systems-v1.0-and-credit-class.md)
 {% endcontent-ref %}
 
 {% content-ref url="credits-from-other-registries/verified-carbon-standard-credit-class/" %}
