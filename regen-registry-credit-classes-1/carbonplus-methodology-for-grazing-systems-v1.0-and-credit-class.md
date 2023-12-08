@@ -27,5 +27,5 @@ The upgraded â€œCarbon_Plus_ GHG & Co-Benefits in Grazing Systems Credit Classâ€
 
 ## Document History:
 
-See the full document history in the entry in the Methodology Library
+See the full document history in the entry in the [Methodology Library](https://app.gitbook.com/s/H1QmzemVpWDCJv0QlPOj/published-methodologies/carbonplus-methodology-for-grazing-systems-v1.0-and-credit-class)
 
