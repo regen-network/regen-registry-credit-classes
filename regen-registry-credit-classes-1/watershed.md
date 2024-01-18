@@ -39,7 +39,7 @@ For energy this would be the corresponding energy savings multiplied by the aver
 
 
 {% tabs %}
-{% tab title="Initial Submission" %}
+{% tab title="Initial Submission/Review" %}
 {% file src="../.gitbook/assets/Virridy Methodology  & Credit Class (Submitted June 6, 2023).docx.pdf" %}
 
 {% file src="../.gitbook/assets/Virridy Credit Class Internal Comments_June 2023.pdf" %}
@@ -60,5 +60,21 @@ For energy this would be the corresponding energy savings multiplied by the aver
 
 
 {% endtab %}
+
+{% tab title="Expert Peer Review 1" %}
+Reviewer #1&#x20;
+
+{% file src="../.gitbook/assets/Reviewer #1_Credit Class Comment Revision Report_w Virridy Responses.pdf" %}
+
+Reviewer #2&#x20;
+
+{% file src="../.gitbook/assets/Reviewer #2_Credit Class Comment Revision Report w Virridy Response.pdf" %}
+
+Reviewer #3
+
+{% file src="../.gitbook/assets/Reviewer #3_Credit Class Revision Report.pdf" %}
+{% endtab %}
 {% endtabs %}
+
+
 
