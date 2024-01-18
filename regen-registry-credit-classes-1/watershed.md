@@ -82,6 +82,26 @@ UPDATED DOCUMENTS AFTER ROUND 1
 
 
 {% endtab %}
+
+{% tab title="Expert Peer Review 2" %}
+Reviewer #1&#x20;
+
+{% file src="../.gitbook/assets/Reviewer #1_Second Round_Credit Class Comment Revision Report_w Virridy Responses.pdf" %}
+
+Reviewer #2&#x20;
+
+{% file src="../.gitbook/assets/Reviewer #2_Round 2_Credit Class Comment Revision Report w Virridy Response.pdf" %}
+
+Reviewer #3&#x20;
+
+{% file src="../.gitbook/assets/Reviewer #3_Round 2_Credit Class Revision Report.pdf" %}
+
+PUBLIC COMMENT REVISION REPORT
+
+{% file src="../.gitbook/assets/Virridy_Public Comment Revision Report_Jan 2024.pdf" %}
+
+
+{% endtab %}
 {% endtabs %}
 
 
