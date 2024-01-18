@@ -10,6 +10,10 @@
 * [Ruuts Credit Class for Soil Carbon Sequestration in Grazing Systems](regen-registry-credit-classes-1/ruuts-credit-class-for-soil-carbon-sequestration-in-grazing-systems.md)
 * [Credit Class for Carbon Removal through Biochar Production](regen-registry-credit-classes-1/credit-class-for-carbon-removal-through-biochar-production.md)
 
+***
+
+* [Page](page.md)
+
 ## Credits from Other Registries
 
 * [Verified Carbon Standard Credit Class](credits-from-other-registries/verified-carbon-standard-credit-class/README.md)
