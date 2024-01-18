@@ -73,6 +73,14 @@ Reviewer #2&#x20;
 Reviewer #3
 
 {% file src="../.gitbook/assets/Reviewer #3_Credit Class Revision Report.pdf" %}
+
+UPDATED DOCUMENTS AFTER ROUND 1
+
+{% file src="../.gitbook/assets/Credit Class Redline_Post Round 1.pdf" %}
+
+{% file src="../.gitbook/assets/Regen Watershed Credit Class Post Peer Review.pdf" %}
+
+
 {% endtab %}
 {% endtabs %}
 
