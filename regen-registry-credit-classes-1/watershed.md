@@ -53,7 +53,11 @@ For energy this would be the corresponding energy savings multiplied by the aver
 
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Internal Review 2" %}
+{% file src="../.gitbook/assets/Virridy Watershed Credit Class_July 12, 2023.pdf" %}
+
+{% file src="../.gitbook/assets/Virridy_Credit Class Internal Comments_July 2023.pdf" %}
+
 
 {% endtab %}
 {% endtabs %}

@@ -9,7 +9,7 @@
 * [Credit Class for Grazing in Vineyard Systems, v1.0](regen-registry-credit-classes-1/credit-class-for-grazing-in-vineyard-systems-v1.0.md)
 * [Ruuts Credit Class for Soil Carbon Sequestration in Grazing Systems](regen-registry-credit-classes-1/ruuts-credit-class-for-soil-carbon-sequestration-in-grazing-systems.md)
 * [Credit Class for Carbon Removal through Biochar Production](regen-registry-credit-classes-1/credit-class-for-carbon-removal-through-biochar-production.md)
-* [GHG & Co-Benefits in Watershed Carbon v1.0](regen-registry-credit-classes-1/ghg-and-co-benefits-in-watershed-carbon-v1.0.md)
+* [GHG & Co-Benefits in Watershed Carbon v1.0](regen-registry-credit-classes-1/watershed.md)
 
 ## Credits from Other Registries
 
