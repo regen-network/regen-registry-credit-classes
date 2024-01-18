@@ -1,4 +1,4 @@
-# Watershed
+# GHG & Co-Benefits in Watershed Carbon v1.0
 
 Ecosystem Focus: Wetlands
 
@@ -24,7 +24,7 @@ For energy this would be the corresponding energy savings multiplied by the aver
 
 **Final Version - Published January 18, 2024**
 
-{% file src="broken-reference" %}
+{% file src="../.gitbook/assets/Regen Watershed Credit Class.docx.pdf" %}
 
 ***
 
@@ -35,3 +35,26 @@ For energy this would be the corresponding energy savings multiplied by the aver
 * Mortenson Center in Global Engineering and Resilience University of Colorado Boulder. [_Greening America’s Rivers: The Potential of Climate Financing for Nature-Based Water Quality Improvement_](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FH1QmzemVpWDCJv0QlPOj%2Fuploads%2FYwFMkoxyXsqkKQptZFqK%2FUS\_Potential\_for\_Climate\_Financed\_Water\_Quality-compressed.pdf?alt=media\&token=62120b47-5b62-4956-9cbf-7739c5f50420)_._ Braden Limb, Jason Quinn, Alex Johnson, Robert B. Sowby, Zia Mehrabi, Evan Thomas. August 10, 2023.
 
 ## Document History:
+
+
+
+{% tabs %}
+{% tab title="Initial Submission" %}
+{% file src="../.gitbook/assets/Virridy Methodology  & Credit Class (Submitted June 6, 2023).docx.pdf" %}
+
+{% file src="../.gitbook/assets/Virridy Credit Class Internal Comments_June 2023.pdf" %}
+
+{% file src="../.gitbook/assets/Virridy_Intial Submission_Comments highlighted.pdf" %}
+
+{% file src="../.gitbook/assets/Virridy_Comment Revision Report_June 2023.pdf" %}
+
+{% file src="../.gitbook/assets/Regen Registry Additional Internal Review Round 1_SB_July, 2023.pdf" %}
+
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
